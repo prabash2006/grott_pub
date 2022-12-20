@@ -158,3 +158,13 @@ The following modules are needed the use Grott:
 
 #### More Version History: see Version_history.txt file. 
 #### Grott is a "hobby" project you can use it as it is (with the potential errors and imperfections). Remarks and requests for improvement are welcome. 
+
+#### Installation
+
+Need to install bellow tools and installation guid can be found in the provided links
+
+- Influx DB - https://linuxhint.com/install-influxdb-raspberry-pi/
+- MQTT - https://www.instructables.com/Installing-MQTT-BrokerMosquitto-on-Raspberry-Pi/
+- Grafana - https://grafana.com/tutorials/install-grafana-on-raspberry-pi/
+
+Grafana dashboards can be found inside examples directory in this source
